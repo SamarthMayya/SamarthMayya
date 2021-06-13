@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Samarth, and I am a (supposed) full stack web developer.<br>
+I like planes, singing, and sometimes even coding.<br>
+![](https://komarev.com/ghpvc/?username=SamarthMayya)
 <!--
 **SamarthMayya/SamarthMayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
