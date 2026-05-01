@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Samarth, and I am a (supposed) full stack web developer.<br>
+I'm Samarth, and I am a backend software engineer (I've worked on frontend before, but currently focused on backend).<br>
 I like planes, singing, and coding :D.<br>
 ![](https://komarev.com/ghpvc/?username=SamarthMayya)
 <!--
